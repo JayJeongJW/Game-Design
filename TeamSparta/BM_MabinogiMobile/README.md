@@ -9,9 +9,9 @@
 | 문서 파일 | 내용 요약 |
 |-----------|-----------|
 | 01_CoreFun_and_Objectives.md | 게임의 핵심 재미 분석, 장기 플레이 유도 요소, 게임 목표 |
-| 02_BMAnalysis.md | BM 요소(예: 가챠 시스템) 분석 및 게임 플레이 영향 (작성 예정) |
+| 02_BMAnalysis.md | BM 요소(예: 가챠 시스템) 분석 및 게임 플레이 영향 |
 | 03_UserPsychology.md | 사용자 구매 동기 및 비구매 심리 구조 분석 |
-| 04_BMExposureStrategy.md | BM 노출 방식 및 유도 전략 분석 (UI/보상/이벤트) (작성 예정)|
+| 04_BMExposureStrategy.md | BM 노출 방식 및 유도 전략 분석 (UI/보상/이벤트) |
 | 05_TeamSummary_Presentation.md | 팀 분석 결과 요약 및 발표자료 구성 (작성 예정) |
 
 ## 🧠 키워드
