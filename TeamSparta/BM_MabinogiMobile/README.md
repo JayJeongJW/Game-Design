@@ -12,7 +12,7 @@
 | 02_BMAnalysis.md | BM 요소(예: 가챠 시스템) 분석 및 게임 플레이 영향 |
 | 03_UserPsychology.md | 사용자 구매 동기 및 비구매 심리 구조 분석 |
 | 04_BMExposureStrategy.md | BM 노출 방식 및 유도 전략 분석 (UI/보상/이벤트) |
-| 05_TeamSummary_Presentation.md | 팀 분석 결과 요약 및 발표자료 구성 (작성 예정) |
+| 05_TeamSummary_Presentation.md | 팀 분석 결과 요약 및 발표자료 구성|
 
 ## 🧠 키워드
 
